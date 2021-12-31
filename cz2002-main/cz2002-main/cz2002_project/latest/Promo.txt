@@ -1,0 +1,4 @@
+17,Set 1,Brunch set,PROMO,40.0,2,5,15,
+18,Set 2,Brunch set,PROMO,35.0,4,9,16,
+19,Set 3,Dinner set,PROMO,69.0,6,7,12,16,9,10,
+21,Set 5,Expensive,PROMO,100.0,1,2,9,

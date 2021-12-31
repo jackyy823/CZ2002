@@ -1,0 +1,16 @@
+1,Spiced Butternut Pumpkin Soup,Vegetarian; coriander; lime; ginger,STARTER,12
+2,Portobello Mushroom Soup,Vegetarian; fresh watercress; truffle oil,STARTER,13
+3,Caesar Salad,Baby cos; bacon; parmesan; baked croutons; poached egg,STARTER,9
+4,Truffle Shoestring Fries,Truffle oil; grated parmesan; parsley,STARTER,14
+5,Fish & Chips,Beer-battered red snapper fillets; shoestring fries; dill pickle aioli,MAIN,26
+6,Sticky BBQ Ribs,Smokey sticky sauce; tangy vegetable & potato slaw; chipotle hot sauce,MAIN,29
+7,Wagyu Burger,Wagyu chuck patty; vintage cheddar; wilted spinach; crispy smoked bacon; tomato & crispy onions; toasted sesame bun & shoestring fries; fried egg,MAIN,29
+8,Salmon Benedict,Poached eggs with gravlax; avocado & hollandaise on house sourdough,MAIN,27
+9,Spicy Kind Prawn Aglio Olio,Spaghettini; toasted sesame breadcrumbs & fresh herbs,MAIN,24
+10,Double Chocolate Blackout Cake,Dark chocolate sauce,DESSERT,12
+11,Ginger Pudding,Lashings of toffee sauce,DESSERT,12
+12,Sticky Date Pudding,Earl grey anglaise,DESSERT,12
+13,Iced Latte,-,DRINK,7
+14,Iced Americano,-,DRINK,7
+15,Iced Mocha,-,DRINK,7
+16,Soft drinks,Coke; sprite; lemon tea,DRINK,3

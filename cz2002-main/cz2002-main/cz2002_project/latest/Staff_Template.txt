@@ -1,0 +1,5 @@
+1,Siteng,Waiter,Male
+2,Leon,Waiter,Male
+3,Kelly,Cleaner,Female
+4,Jingfang,Manager,Female
+5,Jacky,Waiter,Male
